@@ -1,6 +1,17 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
 }
+.App {
+  /* text-align: center; */
+
+  height: 100%;
+  width: auto;
+
+  padding-bottom: 10px;
+}
+/* body {
+  background: rgb(220 213 213);
+} */
 
 .App-logo {
   height: 40vmin;
